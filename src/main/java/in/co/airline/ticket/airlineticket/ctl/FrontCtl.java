@@ -17,12 +17,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 import org.springframework.web.util.WebUtils;
 
-/**
- *   FrontCtl Implementation
- * @author Navigable Set
- *
- * @Version 1.0
- */
+
 @Component
 public class FrontCtl  extends HandlerInterceptorAdapter{
 	
